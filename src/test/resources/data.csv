@@ -1,0 +1,3 @@
+boundary limits 200-300, 200, 300, 3
+boundary limits 100-500, 100, 500, 13
+boundary limits 1-10, 1, 10, 0
