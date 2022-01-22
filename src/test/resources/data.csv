@@ -1,3 +1,6 @@
-boundary limits 200-300, 200, 300, 3
-boundary limits 100-500, 100, 500, 13
-boundary limits 1-10, 1, 10, 0
+registeredAndUnderLimit, 1000_60, true, 30,
+registeredAndOverLimit, 1_000_000_60, true, 500,
+unregisteredAndUnderLimit, 1000_60, false, 10,
+unregisteredAndOverLimit, 1_000_000_60, false, 500,
+registeredBoundaryValue, 16_634_00, true, 499,
+unregisteredBoundaryValue, 49_999_99, false, 499
